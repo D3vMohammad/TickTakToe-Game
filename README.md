@@ -1,4 +1,4 @@
-****Welcome to the Ultimate Tic-Tac-Toe Showdown!****
+****Welcome to the Ultimate Tick-Tak-Toe Showdown! (good name :))**** 
 
 Embark on an exhilarating journey into the world of tic-tac-toe with a warm welcome that sets the stage for an epic showdown.
 ```python
